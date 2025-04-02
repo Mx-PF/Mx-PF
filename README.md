@@ -5,7 +5,6 @@
 
 - <b> osTicket (Help Desk Ticketing System) </b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mx-PF/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Mx-PF/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Mx-PF/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Mx-PF/configure-ad)
