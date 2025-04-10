@@ -16,4 +16,8 @@
 
 [<img align="left" alt="Mike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
+[<img align="left" alt="Mike | Course Careers" width="22px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/875/original/Logo_sail.png" />][Course Careers]
+
 [Linkedin]:https://www.linkedin.com/in/mayco-p-299226169/ 
+
+[Course Careers]:https://profile.coursecareers.com/it/mayco.petitfere
